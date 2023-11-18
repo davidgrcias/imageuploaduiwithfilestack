@@ -7,10 +7,10 @@
         <button id="openPickerButton">Upload Image</button>
 
         <script>
-            var client = filestack.init('AtZTu2pcfQLGpQLkwktKdz');
+            var client = filestack.init('ANZd7Y0tpRKPzeo4vM9svz');
             var options = {
                 storeTo: {
-                workflows: ["820c059c-d352-43ec-ae70-dc4735772118"]
+                workflows: ["abf351f7-3fc0-40fb-9ef3-192151677f6f"]
                 },
                 onUploadDone: handleUploadDone,
                 accept: ["image/*"]
